@@ -1,6 +1,6 @@
-## Resultados da lista de exercicios Modelo ER
+# Resultados da lista de exercicios Modelo ER
 
-# Questões
+## Questões
 
 1. No modelo ER, dê o conceito de entidade forte e de entidade fraca.
 
