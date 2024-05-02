@@ -15,7 +15,7 @@ CREATE TABLE `peca` (
     `id_peca` int PRIMARY KEY,
     `nome` varchar(255),
     `validade` varchar(255),
-    `vetor` varchar(255),
+    `vetor` varchar(255), -- valor da peça
     `id_fornecedor`int
 );
 
