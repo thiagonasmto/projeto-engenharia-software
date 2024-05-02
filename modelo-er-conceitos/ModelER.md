@@ -46,3 +46,12 @@ restrições de participação de cada relacionamento, explicando o caso de
 participação total ou parcial, identifique as chaves primárias, as chaves parciais e
 as entidades fracas. Explique as restrições que deram origem ao diagrama
 explicando os relacionamentos entre as entidades.
+
+Relações:
+- Um corretor pode administrar n imóveis e um imóvel pode ser administrador por n corretores (M to N).
+
+- Um imóvel pode ter apenas um IPTU e um IPTU está associado a apenas um imóvel (1 to 1, obrigatório), relação fraca.
+
+- Um proprietário pode ter M imóveis e um proprietário pode ter N clientes (M to N).
+
+- Um locatario pode alugar M imóveis e um locatário pode ser um cliente (M to 1).
