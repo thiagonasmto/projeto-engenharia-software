@@ -55,3 +55,13 @@ Relações:
 - Um proprietário pode ter M imóveis e um proprietário pode ter N clientes (M to N).
 
 - Um locatario pode alugar M imóveis e um locatário pode ser um cliente (M to 1).
+
+## Questões de desenvolvimento de diagramas ER
+
+| Questão | Descrição |
+| ------- | --------- |
+| ![Questão 6](./modelos-er/questao_6.png) | Questão 6: Sistema de periódicos |
+| ![Questão 7](./modelos-er/questao_7.png) | Questão 7: Sistema para concurso |
+| ![Questão 8](./modelos-er/questao_8.png) | Questão 8: Sistema Spotify |
+| ![Questão 9](./modelos-er/questao_9.png) | Questão 9: Sistema de clínica |
+
